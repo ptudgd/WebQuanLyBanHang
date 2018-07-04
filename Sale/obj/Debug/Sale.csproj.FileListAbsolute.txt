@@ -1,0 +1,12 @@
+E:\website\QuanLyBanHang\Sale\bin\Debug\Sale.dll
+E:\website\QuanLyBanHang\Sale\bin\Debug\Sale.pdb
+E:\website\QuanLyBanHang\Sale\obj\Debug\Sale.csprojResolveAssemblyReference.cache
+E:\website\QuanLyBanHang\Sale\obj\Debug\Sale.csproj.CoreCompileInputs.cache
+E:\website\QuanLyBanHang\Sale\obj\Debug\Sale.dll
+E:\website\QuanLyBanHang\Sale\obj\Debug\Sale.pdb
+D:\website\QuanLyBanHang\Sale\bin\Debug\Sale.dll
+D:\website\QuanLyBanHang\Sale\bin\Debug\Sale.pdb
+D:\website\QuanLyBanHang\Sale\obj\Debug\Sale.csprojAssemblyReference.cache
+D:\website\QuanLyBanHang\Sale\obj\Debug\Sale.csproj.CoreCompileInputs.cache
+D:\website\QuanLyBanHang\Sale\obj\Debug\Sale.dll
+D:\website\QuanLyBanHang\Sale\obj\Debug\Sale.pdb
